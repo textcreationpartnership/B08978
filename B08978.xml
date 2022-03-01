@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the East India Company to the honourable the knights, citizens and burgesses, assembled in Parliament, the humble petition of the governor and company of merchants of London, trading to the East-Indies in a general court assembled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08978</idno>
+            <idno type="STC">Wing E100H</idno>
+            <idno type="STC">ESTC R174833</idno>
+            <idno type="EEBO-CITATION">62369178</idno>
+            <idno type="OCLC">ocm 62369178</idno>
+            <idno type="VID">187878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187878)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2847:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the East India Company to the honourable the knights, citizens and burgesses, assembled in Parliament, the humble petition of the governor and company of merchants of London, trading to the East-Indies in a general court assembled.</title>
+                  <author>Herne, Joseph, Sir.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Braddyll and Robert Everingham,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCI. [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: "Joseph Herne, governor" -- p. 2.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+               <term>Great Britain --  Commerce --  India --  Early works to 1800.</term>
+               <term>India --  Commerce --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:187878:1" rendition="simple:additions"/>
+            <head>THE PETITION OF THE <hi>Eaſt-India Company.</hi>
+            </head>
+            <head type="sub">To the Honourable the Knights, Citizens and Burgeſſes, aſſembled in Parliament. The humble Petition of the Governor and Company of Merchants of <hi>London,</hi> Trading to the <hi>Eaſt-Indies,</hi> in a General Court aſſembled.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THAT your Petitioners and their Predeceſſors, upon the Encouragement of Queen <hi>Elizabeth</hi> and ſucceeding Princes, by their ſeveral Royal Grants and Charters, granted unto them excluſive, to all others have adventured their Eſtates, for the diſcovering and carrying on a Traffick to thoſe remote Parts; greatly to the Advantage of the Navigation of this Kingdom, and to the Enriching of the ſame, as well by what imported by them, as by the Exportation again of ſuch Commodities, for the carrying on a Foreign Trade to the Plantations; <hi>Spain, Italy, Turkey,</hi> &amp;c. And that your Petitioners have been informed, and did always believe, that according to the Ancient Uſage of their Predeceſſors, they might legally manage their Trade, and Eſtabliſh and Govern the Colonies, Forts, and Gariſons of their Propriety, within the Limits of their Charters, by Virtue of, and in conformity to, the ſeveral Grants and Charters from the Crown to them and their Predeceſſors, from the firſt Eſtabliſhment of the ſaid Trade; and that ſeveral Parliaments ſince that time, have had many occaſions to take notice of their ſaid Charters, without any Diſallowance thereunto, but on the contrary, rather implicitely approv'd thereof: But your Petitioners have lately received great damages and diſcouragements in their ſaid Trade, by ſeveral private Traders or Interlopers, who Originally were the Cauſe of all thoſe Troubles and Loſſes brought of late on the ſaid Com<g ref="char:EOLhyphen"/>pany.</p>
+            <pb n="2" facs="tcp:187878:2" rendition="simple:additions"/>
+            <p> Your Petitioners do therefore humbly repreſent to this Honourable Houſe, That the <hi>Eaſt-India</hi> Trade cannot poſſibly be ſupported, but in a Joint-Stock, excluſive to all others, nor without ſuch Powers granted unto them, equal to that of their Neighbours; by which they uphold their Trade, and that while Matters ſtands thus; the ſaid <hi>Eaſt-India</hi> Trade, and ſuch other Foreign-Trades from <hi>England</hi> as depends thereon, will not only ſuffer much; but other <hi>European</hi> Nations will make great Advantage thereof, to the Hazard, if not the utter Ruine and Loſs of the <hi>Engliſh</hi> Commerce to thoſe Parts.</p>
+            <p>
+               <hi>Your Petitioners do therefore moſt humbly pray this-Honourable Houſe will be pleaſed to take the Premiſſes into their moſt prudent conſi<g ref="char:EOLhyphen"/>derations, and to apply ſuch ſeaſonable Remedies for the Preſerva<g ref="char:EOLhyphen"/>tion of this great and important Trade to the</hi> Engliſh <hi>Nation; and on which ſo many other Foreign Trades in a great Meaſure depend, as to ſettle the ſame by Act of Parliament, under ſuch Methods or Regulations as this Honourable Houſe ſhall think fit, unto which your Petitioners ſhall at all times moſt humbly ſubmit: And that in the mean time your Petitioners may be ſupported and encouraged in preſerving the ſaid Trade to the Nation in ſuch manner, and by ſuch means, as this Honourable Houſe in their great Wiſdom ſhall think requiſite.</hi>
+            </p>
+            <closer>And your Petitioners, ſhall ever pray, <hi>&amp;c.</hi> 
+               <signed>
+                  <hi>JOSEPH HERNE,</hi> Governor.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Braddyll</hi> and <hi>Robert Everingham,</hi> and are to be Sold at the <hi>Seven Stars</hi> in <hi>Ave-Mary-Lane,</hi> MDCXCI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
